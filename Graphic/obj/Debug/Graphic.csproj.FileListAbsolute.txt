@@ -1,0 +1,14 @@
+C:\Users\Саша\source\repos\Graphic\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Саша\source\repos\Graphic\Graphic\bin\Debug\Graphic.exe
+C:\Users\Саша\source\repos\Graphic\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Саша\source\repos\Graphic\Graphic\obj\Debug\Graphic.csprojResolveAssemblyReference.cache
+C:\Users\Саша\source\repos\Graphic\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\Graphic\Graphic\obj\Debug\Graphic.exe
+C:\Users\Саша\source\repos\Graphic\Graphic\obj\Debug\Graphic.pdb
+C:\Users\Саша\Desktop\Graphic\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Саша\Desktop\Graphic\Graphic\bin\Debug\Graphic.exe
+C:\Users\Саша\Desktop\Graphic\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Саша\Desktop\Graphic\Graphic\obj\Debug\Graphic.csprojResolveAssemblyReference.cache
+C:\Users\Саша\Desktop\Graphic\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Graphic\Graphic\obj\Debug\Graphic.exe
+C:\Users\Саша\Desktop\Graphic\Graphic\obj\Debug\Graphic.pdb
